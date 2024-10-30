@@ -1,8 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# OLX Clone
+This project is a clone of the OLX platform, built to provide similar functionality for users to list and browse items for sale. It features user authentication to ensure secure access and allows users to create and view listings in a familiar OLX-like interface.
+
+## Features
+- User Authentication: Secure login and registration system, ensuring only authenticated users can access certain features.
+- Product Listings: Users can post, edit, and delete their product listings.
